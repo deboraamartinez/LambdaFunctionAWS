@@ -1,0 +1,1 @@
+## Repository for the first steps with AWS Lambda Function with Serverless
